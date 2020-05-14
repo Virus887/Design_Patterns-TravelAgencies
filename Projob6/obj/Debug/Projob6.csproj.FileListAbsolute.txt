@@ -1,0 +1,7 @@
+C:\Users\ginka\Desktop\Schooooool is coool\SEM4\Projektowanie obiektowe\BigTask1(lab6)\Projob6\Projob6\obj\Debug\Projob6.csprojAssemblyReference.cache
+C:\Users\ginka\Desktop\Schooooool is coool\SEM4\Projektowanie obiektowe\BigTask1(lab6)\Projob6\Projob6\obj\Debug\Projob6.csproj.CoreCompileInputs.cache
+C:\Users\ginka\Desktop\Schooooool is coool\SEM4\Projektowanie obiektowe\BigTask1(lab6)\Projob6\Projob6\bin\Debug\Projob6.exe.config
+C:\Users\ginka\Desktop\Schooooool is coool\SEM4\Projektowanie obiektowe\BigTask1(lab6)\Projob6\Projob6\bin\Debug\Projob6.exe
+C:\Users\ginka\Desktop\Schooooool is coool\SEM4\Projektowanie obiektowe\BigTask1(lab6)\Projob6\Projob6\bin\Debug\Projob6.pdb
+C:\Users\ginka\Desktop\Schooooool is coool\SEM4\Projektowanie obiektowe\BigTask1(lab6)\Projob6\Projob6\obj\Debug\Projob6.exe
+C:\Users\ginka\Desktop\Schooooool is coool\SEM4\Projektowanie obiektowe\BigTask1(lab6)\Projob6\Projob6\obj\Debug\Projob6.pdb
